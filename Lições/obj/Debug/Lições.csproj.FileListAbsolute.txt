@@ -1,0 +1,8 @@
+C:\Users\César\source\repos\Lições\Lições\obj\Debug\Lições.csproj.AssemblyReference.cache
+C:\Users\César\source\repos\Lições\Lições\obj\Debug\Lições.csproj.SuggestedBindingRedirects.cache
+C:\Users\César\source\repos\Lições\Lições\obj\Debug\Lições.csproj.CoreCompileInputs.cache
+C:\Users\César\source\repos\Lições\Lições\bin\Debug\Lições.exe.config
+C:\Users\César\source\repos\Lições\Lições\bin\Debug\Lições.exe
+C:\Users\César\source\repos\Lições\Lições\bin\Debug\Lições.pdb
+C:\Users\César\source\repos\Lições\Lições\obj\Debug\Lições.exe
+C:\Users\César\source\repos\Lições\Lições\obj\Debug\Lições.pdb
